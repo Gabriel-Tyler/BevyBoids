@@ -8,6 +8,6 @@ Taking inspiration from:
 
 Run with ```cargo run```
 
-Example Results
+Example
 --------------------------------------------------------
 ![](images/boids_v0.1.0.png)
