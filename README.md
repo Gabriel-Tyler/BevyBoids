@@ -10,4 +10,4 @@ Run with ```cargo run```
 
 Example Results
 --------------------------------------------------------
-![](images/boids_v0.1.0.jpg)
+![](images/boids_v0.1.0.png)
